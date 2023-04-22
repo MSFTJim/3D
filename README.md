@@ -1,5 +1,6 @@
 # 3D
-CSS 3D rotation
+CSS 3D rotation from Harold Cooper!
+https://x.st/spinning-diagrams-with-css/
 
 Press play to see a demo of the running application.
 
